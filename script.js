@@ -3,6 +3,3 @@ function addNum(){
     var Fahreinheit = document.getElementById("answer");
     Fahreinheit.value = (Celcius * 1.8) + 32;
 }
-function myFunction() {
-    document.getElementById("delete").reset();
-  }
